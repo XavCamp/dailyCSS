@@ -4,9 +4,8 @@
     width: 150px;
     border-radius: 25px 25px 30px 33px;
     background-color: rgb(125, 123, 121);
-    margin: 20px auto;
+    margin: 50px auto;
     box-shadow: -2px 1px rgba(0,0,0,1);
-    margin-top: 50px;
 }
 .tail {
     position: relative;
